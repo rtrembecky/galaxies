@@ -3,6 +3,11 @@ Galaxies - a CUDA project
 
 PV197 GPU Programming course, Masaryk University, Autumn 2017
 
+Compilation
+-----------
+
+`nvcc framework.cu -o framework`
+
 Assignment
 ----------
 
