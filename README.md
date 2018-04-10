@@ -11,6 +11,9 @@ Compilation
 Assignment
 ----------
 
+See [project-announcement.pdf](https://github.com/rtrembecky/galaxies/blob/master/project-announcement.pdf) for
+full assignment (and better formatting).
+
 The project is focused on computing similarity of galaxies. Your task is to
 implement a CUDA version of an algorithm, which compares distances of all pairs of
 stars in two representations of the same galaxy. The galaxy is represented as a
